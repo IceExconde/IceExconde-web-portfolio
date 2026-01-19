@@ -1,4 +1,4 @@
-# Portfolio
+# IceExconde-web-portfolio
 
 A simple portfolio website I made.
 
@@ -13,4 +13,4 @@ A simple portfolio website I made.
 
 - HTML5
 - CSS3 (with CSS Variables)
-- Vanilla JavaScript
+- Vanila JavaScript
